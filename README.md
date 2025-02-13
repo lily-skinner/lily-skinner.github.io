@@ -9,6 +9,3 @@ My goals:
 - [x] Graduate high school
 - [ ] Graduate college
 - [ ] Get a well paying job
-
-[!NOTE]
-This is my first github website.
