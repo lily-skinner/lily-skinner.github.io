@@ -10,5 +10,5 @@ My goals:
 - [ ] Graduate college
 - [ ] Get a well paying job
 
-> [!NOTE]
-> This is my first github website.
+[!NOTE]
+This is my first github website.
