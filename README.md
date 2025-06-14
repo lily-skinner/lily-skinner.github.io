@@ -1,11 +1,29 @@
-# This is a first level heading
-## And this heading is slightly smaller
-### Even smaller here
-and here is some main body text
+# Welcome to My Website
 
-Here is a link to [Google](https://google.com) and a link back to [this page](https://lily-skinner.github.io/)
+This is a simple site written in **Markdown**.
 
-My goals:
-- [x] Graduate high school
-- [ ] Graduate college
-- [ ] Get a well paying job
+## 🌐 About Me
+
+Hi! I'm a developer who loves to build clean and minimal web apps.
+
+- 🔧 Tools I use:
+  - HTML/CSS
+  - JavaScript
+  - Python
+
+## 📫 Contact
+
+You can reach me at [myemail@example.com](mailto:myemail@example.com).
+
+---
+
+### 📸 Gallery
+
+<img src="https://via.placeholder.com/150" alt="Sample image" width="150">
+<img src="https://via.placeholder.com/150" alt="Sample image" width="150">
+
+## 🧭 Navigation
+
+- [Home](index.md)
+- [Blog](blog.md)
+- [Contact](contact.md)
