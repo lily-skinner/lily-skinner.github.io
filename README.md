@@ -1,29 +1,21 @@
-# Welcome to My Website
+# Welcome to My Animated Site!
 
-This is a simple site written in **Markdown**.
+<div class="fade-in">
+  <h2>Hello, world! 👋</h2>
+  <p>This paragraph fades in smoothly using CSS animation.</p>
+</div>
 
-## 🌐 About Me
+<style>
+.fade-in {
+  animation: fadeIn 2s ease-in-out;
+  opacity: 0;
+  animation-fill-mode: forwards;
+  animation-delay: 0.5s;
+}
 
-Hi! I'm a developer who loves to build clean and minimal web apps.
-
-- 🔧 Tools I use:
-  - HTML/CSS
-  - JavaScript
-  - Python
-
-## 📫 Contact
-
-You can reach me at [myemail@example.com](mailto:myemail@example.com).
-
----
-
-### 📸 Gallery
-
-<img src="https://via.placeholder.com/150" alt="Sample image" width="150">
-<img src="https://via.placeholder.com/150" alt="Sample image" width="150">
-
-## 🧭 Navigation
-
-- [Home](index.md)
-- [Blog](blog.md)
-- [Contact](contact.md)
+@keyframes fadeIn {
+  to {
+    opacity: 1;
+  }
+}
+</style>
